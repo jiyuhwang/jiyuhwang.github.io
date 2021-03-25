@@ -4,7 +4,7 @@ title: "class & method"
 subtitle: "JAVA"
 date: 2021-03-18
 background: '/img/posts/01.jpg'
-categories: ['java']
+categories: ['Java']
 ---
 
 
