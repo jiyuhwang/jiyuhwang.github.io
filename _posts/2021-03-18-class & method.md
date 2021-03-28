@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "class & method"
+title: "Class & Method"
 subtitle: "JAVA"
 date: 2021-03-18
 background: '/img/posts/01.jpg'
@@ -9,13 +9,13 @@ categories: ['Java']
 
 
 
-## class & method
+## Class & Method
 
-![필기] ('/img/posts/Class .jpg')
+![Class](/img/posts/Class.jpg){: width="500" height="300"}
 
-![필기] ('/img/posts/Method.jpg')
+![Method](/img/posts/Method.jpg)
 
-------
+-----
 
 
 
