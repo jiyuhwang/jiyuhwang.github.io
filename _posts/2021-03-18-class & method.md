@@ -11,9 +11,9 @@ categories: ['Java']
 
 ## Class & Method
 
-![Class](/img/posts/Class.jpg){: width="500" height="300"}
+![Class](/img/posts/Class.jpg){: width="1000" height="800"}
 
-![Method](/img/posts/Method.jpg)
+![Method](/img/posts/Method.jpg){: width="1000" height="800"}
 
 -----
 
