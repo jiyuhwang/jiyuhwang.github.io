@@ -1,3 +1,7 @@
+
+
+
+
 ---
 layout: post
 title: "Class & Method"
@@ -55,6 +59,10 @@ public class Test09 {
 
 ```
 
+-----
+
+
+
 ```java
 // 클래스
 public class Test09s {
@@ -108,4 +116,3 @@ public class Test09s {
 	}
 }
 ```
-
