@@ -1,7 +1,3 @@
-
-
-
-
 ---
 layout: post
 title: "Class & Method"
@@ -11,8 +7,6 @@ background: '/img/posts/01.jpg'
 categories: ['Java']
 ---
 
-
-
 ## Class & Method
 
 ![Class](/img/posts/Class.jpg){: width="1000" height="800"}
@@ -21,14 +15,12 @@ categories: ['Java']
 
 -----
 
-
-
 ```java
 public class Test09 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		Test09s ts = new Test09s();
+
+    Test09s ts = new Test09s();
 		Test09s ts2 = new Test09s("Hi");
 
 		ts.a = 7;
@@ -60,8 +52,6 @@ public class Test09 {
 ```
 
 -----
-
-
 
 ```java
 // 클래스
@@ -116,3 +106,34 @@ public class Test09s {
 	}
 }
 ```
+
+-----
+
+#### 실행결과
+
+```java
+기본생성자 실행중.
+추가생성자 : Hi
+7
+10
+7
+7
+a메소드 실행
+변경된 내용 : 보낸값
+4
+10
+-4
+21
+0
+3
+128 * 1 = 128
+128 * 2 = 256
+128 * 3 = 384
+128 * 4 = 512
+128 * 5 = 640
+128 * 6 = 768
+128 * 7 = 896
+128 * 8 = 1024
+128 * 9 = 1152
+```
+
