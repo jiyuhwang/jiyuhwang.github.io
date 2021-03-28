@@ -11,6 +11,14 @@ categories: ['Java']
 
 ## class & method
 
+![필기] ('/img/posts/Class .jpg')
+
+![필기] ('/img/posts/Method.jpg')
+
+------
+
+
+
 ```java
 public class Test09 {
 
