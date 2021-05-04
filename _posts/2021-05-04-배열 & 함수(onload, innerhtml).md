@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "배열 & onload, innerhtml"
+title: "2021-05-04-배열 & 함수(onload, innerhtml)"
 subtitle: "JAVASCRIPT"
 date: 2021-05-04
 background: '/img/posts/01.jpg'
